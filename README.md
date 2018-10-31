@@ -1,5 +1,5 @@
 ## Caffeinate
-Caffeinate macOS for forever and prevent it from going to sleep.
+Caffeinate is a tiny program that puts an icon in the right side of your menu bar. Click it to prevent your Mac from automatically going to sleep, dimming the screen or starting screen savers.
 
 ## Download Caffeinate
 https://github.com/getappbox/Caffeinate/releases/download/v1.0/Caffeinate.app.zip
